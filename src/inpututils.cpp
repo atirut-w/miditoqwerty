@@ -1,4 +1,4 @@
-#pragma once
+// #pragma once // In a non-header file????
 #include "inpututils.h"
 
 unsigned char scanSets[2][26];
